@@ -1,0 +1,11 @@
+.single-student-card {
+  width: 250px;
+  background: purple;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 7px 0px #000;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

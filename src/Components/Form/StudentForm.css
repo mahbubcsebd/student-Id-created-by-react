@@ -1,0 +1,33 @@
+.input-group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+form {
+  width: 280px;
+  margin: 20px auto;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  outline: 0;
+  border: 1px solid #ddd;
+  background: transparent;
+}
+
+
+label {
+  margin-right: 20px;
+}
+
+button.sub-btn {
+  padding: 10px 20px;
+  font-size: 18px;
+  background: deeppink;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
